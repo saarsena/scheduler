@@ -1,1 +1,20 @@
-build/compile_commands.json
+[
+{
+  "directory": "/home/saarsena/CLionProjects/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/saarsena/CLionProjects/untitled/include -g -std=c++17 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles/EventSystemProject.dir/src/EnttEventExample.cpp.o -c /home/saarsena/CLionProjects/untitled/src/EnttEventExample.cpp",
+  "file": "/home/saarsena/CLionProjects/untitled/src/EnttEventExample.cpp",
+  "output": "CMakeFiles/EventSystemProject.dir/src/EnttEventExample.cpp.o"
+},
+{
+  "directory": "/home/saarsena/CLionProjects/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/saarsena/CLionProjects/untitled/include -g -std=c++17 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles/EventSystemProject.dir/src/SchedulerExample.cpp.o -c /home/saarsena/CLionProjects/untitled/src/SchedulerExample.cpp",
+  "file": "/home/saarsena/CLionProjects/untitled/src/SchedulerExample.cpp",
+  "output": "CMakeFiles/EventSystemProject.dir/src/SchedulerExample.cpp.o"
+},
+{
+  "directory": "/home/saarsena/CLionProjects/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/saarsena/CLionProjects/untitled/include -g -std=c++17 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles/EventSystemProject.dir/src/main.cpp.o -c /home/saarsena/CLionProjects/untitled/src/main.cpp",
+  "file": "/home/saarsena/CLionProjects/untitled/src/main.cpp",
+  "output": "CMakeFiles/EventSystemProject.dir/src/main.cpp.o"
+}
+]

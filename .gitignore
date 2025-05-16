@@ -1,0 +1,39 @@
+# CLion + CMake + C++ typical .gitignore
+
+# CMake build artifacts
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.lib
+*.exe
+.cache*/
+# IDE files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# User settings
+*.user
+*.sublime-*
+*.swp
+
+# Binary output
+bin/
+build/
+out/
+
+# System files
+.DS_Store
+Thumbs.db
+
+!/Docs/
